@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer", "pointer\pointer.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer2", "pointer2\pointer2.vcxproj", "{63D78CA1-74B2-4C96-A18B-9C0A6BC00A53}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer3", "pointer3\pointer3.vcxproj", "{E7C86A82-FC19-4378-90AB-FC3C14E3D905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{63D78CA1-74B2-4C96-A18B-9C0A6BC00A53}.Release|x64.Build.0 = Release|x64
 		{63D78CA1-74B2-4C96-A18B-9C0A6BC00A53}.Release|x86.ActiveCfg = Release|Win32
 		{63D78CA1-74B2-4C96-A18B-9C0A6BC00A53}.Release|x86.Build.0 = Release|Win32
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Debug|x64.ActiveCfg = Debug|x64
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Debug|x64.Build.0 = Debug|x64
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Debug|x86.Build.0 = Debug|Win32
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Release|x64.ActiveCfg = Release|x64
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Release|x64.Build.0 = Release|x64
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Release|x86.ActiveCfg = Release|Win32
+		{E7C86A82-FC19-4378-90AB-FC3C14E3D905}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
